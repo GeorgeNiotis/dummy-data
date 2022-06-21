@@ -1,0 +1,31 @@
+{
+  "treasury": "0x3528d9A7F6fD86E7Fa5988e39EC3ea47607a381A",
+  "personalCap": 1,
+  "prices": {
+    "publicPrice": "1000000000000000",
+    "preSalePrice": "100000000000000"
+  },
+  "timestamps": {
+    "preSaleStartTs": "1655723807",
+    "preSaleEndTs": "1658724807",
+    "claimStartTs": "1655723807",
+    "claimEndTs": "1658724807",
+    "publicSaleStartTs": "1655723807",
+    "publicSaleEndTs": "1658724807"
+  },
+  "supplies": {
+    "presaleSuppl": 3000,
+    "claimableSupply": 4457
+  },
+  "premints": [
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    2000
+  ]
+}
