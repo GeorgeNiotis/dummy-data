@@ -14,8 +14,8 @@
     "publicSaleEndTs": "1658724807"
   },
   "supplies": {
-    "presaleSupply": 3000,
-    "claimableSupply": 4457
+    "presaleSupply": 3,
+    "claimableSupply": 4
   },
   "premints": [
     1,
