@@ -6,12 +6,12 @@
     "preSalePrice": "100000000000000"
   },
   "timestamps": {
-    "preSaleStartTs": "1656330000",
-    "preSaleEndTs": "1656331200",
-    "claimStartTs": "1656331800",
-    "claimEndTs": "1656333000",
-    "publicSaleStartTs": "1656333600",
-    "publicSaleEndTs": "1656334800"
+    "preSaleStartTs": "1656342000",
+    "preSaleEndTs": "1656342900",
+    "claimStartTs": "1656343200",
+    "claimEndTs": "1656344100",
+    "publicSaleStartTs": "1656344400",
+    "publicSaleEndTs": "1656345600"
   },
   "supplies": {
     "presaleSupply": 3,
