@@ -16,7 +16,8 @@
   "supplies": {
     "presaleSupply": 3,
     "claimableSupply": 4,
-    "publicSupply": 2
+    "publicSupply": 2,
+    "secondPublicSaleSupply":5
   },
   "premints": [
     1,
