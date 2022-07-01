@@ -6,30 +6,30 @@
     "preSalePrice": "100000000000000"
   },
   "timestamps": {
-    "preSaleStartTs": "1656595820",
-    "preSaleEndTs": "1656596420",
-    "publicSaleStartTs": "1656596720",
-    "publicSaleEndTs": "1656597020",
-    "claimStartTs": "1656597320",
-    "claimEndTs": "1656597620",
-    "secondPublicSaleStartTs": "1656598520",
-    "secondPublicSaleEndTs": "1656599120"
+    "preSaleStartTs": "1656664800",
+    "preSaleEndTs": "1656665400",
+    "publicSaleStartTs": "1656666000",
+    "publicSaleEndTs": "1656666600",
+    "claimStartTs": "1656667200",
+    "claimEndTs": "1656667800",
+    "secondPublicSaleStartTs": "1656668400",
+    "secondPublicSaleEndTs": "1656669000"
   },
   "supplies": {
-    "presaleSupply": 3,
-    "claimableSupply": 4,
-    "publicSupply": 2,
-    "secondPublicSaleSupply":5
+    "presaleSupply": 30,
+    "claimableSupply": 45,
+    "publicSupply": 25,
+    "secondPublicSaleSupply":33
   },
   "premints": [
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1,
-    1
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    20
   ]
 }
