@@ -10,10 +10,10 @@
     "preSaleEndTs": "1656930000",
     "publicSaleStartTs": "1656930600",
     "publicSaleEndTs": "1656931800",
-    "claimStartTs": "1656932400",
-    "claimEndTs": "1656933600",
-    "secondPublicSaleStartTs": "",
-    "secondPublicSaleEndTs": ""
+    "claimStartTs": "1656934200",
+    "claimEndTs": "1656934800",
+    "secondPublicSaleStartTs": "0",
+    "secondPublicSaleEndTs": "1"
   },
   "supplies": {
     "presaleSupply": 30,
