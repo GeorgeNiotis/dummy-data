@@ -1,0 +1,23 @@
+{
+  "name": "VeopleMintDrop",
+  "symbol": "VBI",
+  "treasury": "0x3528d9A7F6fD86E7Fa5988e39EC3ea47607a381A",
+  "maxSupply": 10000,
+  "phase1Supply": 4000,
+  "phase2Supply": 4000,
+  "personalCap": 5,
+  "teamAllocation": 10,
+  "presalePrice": "100000000000000",
+  "allowlistPrice": "100000000000000",
+  "publicPrice": "1000000000000000",
+  "startingBidPrice": "100000000000000",
+  "preSaleEndTs": "1660384817",
+  "allowlistStart": "1657706417",
+  "allowlistEnd": "1660384817",
+  "publicStart": "1657706417",
+  "publicEnd": "1660384817",
+  "auctionStart": "1657706417",
+  "provenanceHash": "0x4b0f3d8e10eb98a24d270b082afdce40d21284aa0bdb2e7698287b0adce9f7d1",
+  "presaleMerkleRoot": "0x03b478f2e38dbbb7c884580f0fd5e52e6230d40f283a8f18859f2983196751ac",
+  "allowListMerkleRoot": "0x9d82f79580ad0379e611ac4314a8542ec0ef0941e4b8c7cbcafafc0516cb3c79"
+}
