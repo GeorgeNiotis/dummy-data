@@ -1,30 +1,21 @@
 {
-  "owner": {
-    "address": "0x3E34264088639e459BfF9947A8CA1DD640B2d34e",
-    "privKey": "67cf19f9824579d3ab3fb38029885a0c0e55ca74c5089d1398a5b68194d53d4e"
+  "treasury": "0x3528d9A7F6fD86E7Fa5988e39EC3ea47607a381A",
+  "personalCap": 1,
+  "publicPrice": "45000000000000000",
+  "timestamps": {
+    "preSaleStartTs": "1655723807",
+    "preSaleEndTs": "1658724807",
+    "publicSaleStartTs": "1655723807",
+    "publicSaleEndTs": "1658724807"
   },
-  "infura": {
-    "projectId": "b775d2be508b4808bdd5229a94a2e0f8"
+  "whitelistMerkleRoot": "0xa06704ab2dad9ac074e9e466d9b0de7a03b1cfc6ee98ec960feb3ac5be0078cc",
+  "supplies": {
+    "presaleSupply": 3000,
+    "publicSupply": 2543
   },
-  "deploymentParams": {
-    "treasury": "0x3528d9A7F6fD86E7Fa5988e39EC3ea47607a381A",
-    "personalCap": 1,
-    "publicPrice": "45000000000000000",
-    "timestamps": {
-      "preSaleStartTs": "1655723807",
-      "preSaleEndTs": "1658724807",
-      "publicSaleStartTs": "1655723807",
-      "publicSaleEndTs": "1658724807"
-    },
-    "whitelistMerkleRoot": "0xa06704ab2dad9ac074e9e466d9b0de7a03b1cfc6ee98ec960feb3ac5be0078cc",
-    "supplies": {
-      "presaleSupply": 3000,
-      "publicSupply": 2543
-    },
-    "durations":{
-      "stakeLock": 1,
-      "rewardLock": 3
-    },
-    "provenanceHash": "0x0000000000000000000000000000000000000000000000000000000000000000"
-  }
+  "durations": {
+    "stakeLock": 1,
+    "rewardLock": 3
+  },
+  "provenanceHash": "0x0000000000000000000000000000000000000000000000000000000000000000"
 }
