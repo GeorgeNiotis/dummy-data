@@ -2,17 +2,17 @@
   "treasury": "0x3528d9A7F6fD86E7Fa5988e39EC3ea47607a381A",
   "personalCap": 1,
   "timestamps": {
-    "preSaleStartTs": "1662463249",
-    "preSaleEndTs": "1662463549",
-    "publicSaleStartTs": "1662464149",
-    "publicSaleEndTs": "1662464449"
+    "preSaleStartTs": "1662552000",
+    "preSaleEndTs": "1662553200",
+    "publicSaleStartTs": "1662553800",
+    "publicSaleEndTs": "1662555000"
   },
-  "whitelistMerkleRoot": "0x903f447160acfb549d9343fb649976169a6e31eae93edb9ffe8d8a6934061044",
+  "whitelistMerkleRoot": "0x9e9a2e9388f03430d0e218eb98d2c8e4f48aae2c25d42fc17e33d2878acdf4ab",
   "supplies": {
     "presaleSupply": 3000,
-    "publicSupply": 2543
+    "publicSupply": 1000
   },
-  "durations":{
+  "durations": {
     "stakeLock": 1,
     "rewardLock": 3
   },
