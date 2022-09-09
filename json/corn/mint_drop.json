@@ -9,8 +9,8 @@
   },
   "whitelistMerkleRoot": "0x8ee334d85c79029b95822e6bb471568d0725dfe9896d17c5d651b8deb04b53c8",
   "supplies": {
-    "presaleSupply": 1,
-    "publicSupply": 1
+    "presaleSupply": 3000,
+    "publicSupply": 1000
   },
   "durations": {
     "stakeLock": 1,
