@@ -2,10 +2,10 @@
   "treasury": "0x3528d9A7F6fD86E7Fa5988e39EC3ea47607a381A",
   "personalCap": 1,
   "timestamps": {
-    "preSaleStartTs": "1662729000",
-    "preSaleEndTs": "1662730200",
-    "publicSaleStartTs": "1662730800",
-    "publicSaleEndTs": "1662732000"
+    "preSaleStartTs": "1662742800",
+    "preSaleEndTs": "1662755400",
+    "publicSaleStartTs": "1662757200",
+    "publicSaleEndTs": "1662768000"
   },
   "whitelistMerkleRoot": "0x8ee334d85c79029b95822e6bb471568d0725dfe9896d17c5d651b8deb04b53c8",
   "supplies": {
