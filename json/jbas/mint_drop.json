@@ -2,34 +2,36 @@
   "treasury": "0x3528d9A7F6fD86E7Fa5988e39EC3ea47607a381A",
   "personalCap": 1,
   "prices": {
-    "publicPrice": "1000000000000000",
-    "preSalePrice": "100000000000000"
+    "publicPrice": "1000000000000",
+    "preSalePrice": "1000000000000"
   },
   "timestamps": {
-    "preSaleStartTs": "1656928800",
-    "preSaleEndTs": "1656930000",
-    "publicSaleStartTs": "1656930600",
-    "publicSaleEndTs": "1656931800",
-    "claimStartTs": "1656934200",
-    "claimEndTs": "1656934800",
-    "secondPublicSaleStartTs": "0",
-    "secondPublicSaleEndTs": "1"
+    "preSaleStartTs": "1655723807",
+    "preSaleEndTs": "1700762398",
+    "claimStartTs": "1655723807",
+    "claimEndTs": "1700762398",
+    "publicSaleStartTs": "1655723807",
+    "publicSaleEndTs": "1700762398",
+    "secondPublicSaleStartTs": "1655723807",
+    "secondPublicSaleEndTs": "1700762398"
   },
+  "whitelistMerkleRoot": "0x17cdbdfa7b068488ba49b98b4fc09d8e016170fddd8739957d406af63990bacd",
   "supplies": {
-    "presaleSupply": 30,
-    "claimableSupply": 45,
-    "publicSupply": 25,
-    "secondPublicSaleSupply":33
+    "presaleSupply": 3,
+    "claimableSupply": 10,
+    "publicSupply": 2,
+    "secondPublicSaleSupply": 3
   },
   "premints": [
-    10,
-    10,
-    10,
-    10,
-    10,
-    10,
-    10,
-    10,
-    20
-  ]
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2
+  ],
+  "jBasAddress": "0x95a9b9BBb1acC24e6511ce35cE016c6B3139bB09"
 }
