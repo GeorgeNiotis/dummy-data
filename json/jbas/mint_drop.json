@@ -6,13 +6,13 @@
     "preSalePrice": "1000000000000"
   },
   "timestamps": {
-    "preSaleStartTs": "1670241600",
-    "preSaleEndTs": "1670242500",
-    "publicSaleStartTs": "1670242800",
-    "publicSaleEndTs": "1670243700",
-    "claimStartTs": "1670243700",
-    "secondPublicSaleStartTs": "1",
-    "secondPublicSaleEndTs": "2"
+    "preSaleStartTs": "1670245200",
+    "preSaleEndTs": "1670245800",
+    "publicSaleStartTs": "1670246100",
+    "publicSaleEndTs": "1670246700",
+    "claimStartTs": "1670246700",
+    "secondPublicSaleStartTs": "0",
+    "secondPublicSaleEndTs": "1"
   },
   "whitelistMerkleRoot": "0xa06704ab2dad9ac074e9e466d9b0de7a03b1cfc6ee98ec960feb3ac5be0078cc",
   "supplies": {
